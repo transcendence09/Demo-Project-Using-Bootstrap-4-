@@ -4,13 +4,17 @@
   margin: 0%;
 }
 .bg-light{
-  background-color: #c4cbd1 !important;
+  background-color: #ebeef1;
+}
+#sticky-navigation {
+  background: rgba(255, 255, 255, 0.9) !important;
 }
 html, body{
   height: 100%;
   width: 100%;
   font-family: 'Poppins', sans-serif;
   color: #222;
+  scroll-behavior: smooth;
 }
 
 .navbar{
